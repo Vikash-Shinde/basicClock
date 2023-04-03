@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    margin: 0;
+    border: 2px solid green;
+    padding: 5px;
+    background-color: rgb(232, 204, 111);
+    text-align: center;
+
+}
+.header h1{
+   
+    color: yellow;
+}
+
+.datee{
+    border: 4px solid rgb(72, 76, 22);
+    margin: 150px 300px;
+    text-align: center;
+    display: inline-block;
+    font-size: 100px;
+    background-color: antiquewhite;
+    
+   
+   
+
+}
+#week {
+    font-size: 50px;
+    display: inline-block;
+    padding: 10px;
+}
+#month{
+    font-size: 50px;
+    display: inline-block;
+    padding: 10px;
+   
+    
+}
